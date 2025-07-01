@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/customwordquest-116664-76358c75/kotlin_frontend"
+}
